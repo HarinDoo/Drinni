@@ -6,7 +6,7 @@
 
 
 
-#### 🌱 Research Interest
+#### 🌱 Research Interest 🌱
 - Digital healthcare
 - Digital Phenotyping
 - Medical AI
