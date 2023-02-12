@@ -1,6 +1,3 @@
-### Hi there 👋
-I'm Drinni, Combined MS/PhD student.<br/>
-I'm interested in Digital Healthcare.
 
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=Welcome%20my%20github&fontSize=40)
 
