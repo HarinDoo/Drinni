@@ -7,8 +7,8 @@
 
 
 #### 🌱 Research Interest 🌱
-- Digital healthcare
 - Digital Phenotyping
+- Digital Therapeutics
 - Medical AI
 - Computer Vision
 
