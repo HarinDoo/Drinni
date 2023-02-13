@@ -6,10 +6,11 @@
 
 
 #### 🌱 Research Interest 🌱
+- Computer Vision
 - Digital Phenotyping
 - Digital Therapeutics
 - Medical AI
-- Computer Vision
+
 
  
 
